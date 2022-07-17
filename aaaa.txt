@@ -1,0 +1,29 @@
+
+"_id": "5f168810be2e99a158c08505",
+    "isAdmin": true,
+    "name": "Tiago Pereasdira",
+    "email": "tiago@gmail.com",
+    "passwordHash": "$2a$10$fJCb7I0WEAOSV71AZ5lcS.nZrp5xIlGdf5iOzZ4AgTdp8glYiVzBK",
+    1234567
+    "phone": "7022417777",
+    "__v": 0,
+    "apartment": "",
+    "city": "",
+    "country": "DZ",
+    "street": "",
+    "zip": "",
+    "id": "5f168810be2e99a158c08505"
+    "_id": "5f168810be2e99a158c08505",
+    
+    
+{       
+    "email": "tiagoaaa@gmail.com",
+    "password": "123456"
+}
+
+{       
+    "name": "Tiago Pereasdira",
+    "email": "vagelis@gmail.com",
+    "password": "1234567"
+
+}
